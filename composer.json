@@ -23,8 +23,8 @@
     ],
     "require": {
         "php": "^8.2",
-        "webklex/php-imap": "^5.5.0",
-        "laravel/framework": "^10.0 || ^11.0"
+        "webklex/php-imap": "^5.5.0 || ^6.0",
+        "laravel/framework": "^10.0 || ^11.0 || ^12.0"
     },
     "autoload": {
         "psr-4": {
